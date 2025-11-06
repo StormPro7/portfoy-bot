@@ -1,0 +1,3 @@
+Token = ""
+
+DATABASE = "mydatabase.db"
